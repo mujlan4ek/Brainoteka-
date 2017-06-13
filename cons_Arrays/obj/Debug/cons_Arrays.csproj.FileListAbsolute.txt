@@ -1,0 +1,6 @@
+c:\users\kulikov\documents\visual studio 2012\Projects\Brainoteka\cons_Arrays\bin\Debug\cons_Arrays.exe.config
+c:\users\kulikov\documents\visual studio 2012\Projects\Brainoteka\cons_Arrays\bin\Debug\cons_Arrays.exe
+c:\users\kulikov\documents\visual studio 2012\Projects\Brainoteka\cons_Arrays\bin\Debug\cons_Arrays.pdb
+c:\users\kulikov\documents\visual studio 2012\Projects\Brainoteka\cons_Arrays\obj\Debug\cons_Arrays.csprojResolveAssemblyReference.cache
+c:\users\kulikov\documents\visual studio 2012\Projects\Brainoteka\cons_Arrays\obj\Debug\cons_Arrays.exe
+c:\users\kulikov\documents\visual studio 2012\Projects\Brainoteka\cons_Arrays\obj\Debug\cons_Arrays.pdb
